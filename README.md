@@ -1,0 +1,1 @@
+This is a place holder to remind myself to write a particle simulation where an image is "gooped". I need to investigate the best tools to do this and not have the rendering take 7 billion years (and also some sort of portability to Windows would be nice as well)
